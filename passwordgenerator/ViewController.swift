@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  passwordgenerator
 //
-//  Created by Gökalp Gürocak on 19.09.2025.
+//  Created by Gökalp on 19.09.2025.
 //
 
 import UIKit
