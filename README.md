@@ -1,5 +1,5 @@
 # Password Generator
-> This is my first Swift project. I'm learning it through BTK.
+> This is my first Swift project. I'm learning it through BTK Akademi. I haven't started using SwiftUI yet. For this project, I used Storyboard.
 <table align="center">
  <tr>
     <td align="center">
