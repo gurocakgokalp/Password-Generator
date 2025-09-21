@@ -1,5 +1,7 @@
 # Password Generator
 > This is my first Swift project. I'm learning it through BTK Akademi. I haven't started using SwiftUI yet. For this project, I used Storyboard.
+
+> Bu projede, Swift temellerini ve local data storage (UserDefaults) ogrendim. Sirada baska viewController'lar ile calismak var. Ardindan favorilere ekleme, strengh parameter, local auth vb.
 <table align="center">
  <tr>
     <td align="center">
